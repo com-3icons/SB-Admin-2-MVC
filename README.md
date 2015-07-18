@@ -9,7 +9,7 @@ Adaptation of the  [Start Bootstrap](http://startbootstrap.com/) - [SB Admin](ht
 To use this template, follow these steps:
 * Fork this repository on GitHub
 * Create a MVC Project in VS2012 or VS2013
-* Copy the Folders into your working MVC project. Note replace the namespace with you name spave on the HomeController.cshtml file.
+* Copy the Folders into your working MVC project. Note replace the namespace with you name space on the HomeController.cshtml file.
 
 ## Bugs and Issues
 
